@@ -1,0 +1,13 @@
+F:\1VTChain\VTChain软件开发\VTChainNew\LevelDb.Net\obj\Debug\netstandard2.0\LevelDb.Net.csproj.CoreCompileInputs.cache
+F:\1VTChain\VTChain软件开发\VTChainNew\LevelDb.Net\obj\Debug\netstandard2.0\LevelDb.Net.AssemblyInfoInputs.cache
+F:\1VTChain\VTChain软件开发\VTChainNew\LevelDb.Net\obj\Debug\netstandard2.0\LevelDb.Net.AssemblyInfo.cs
+F:\1VTChain\VTChain软件开发\VTChainNew\LevelDb.Net\bin\Debug\netstandard2.0\LevelDb.Net.deps.json
+F:\1VTChain\VTChain软件开发\VTChainNew\LevelDb.Net\bin\Debug\netstandard2.0\LevelDb.Net.dll
+F:\1VTChain\VTChain软件开发\VTChainNew\LevelDb.Net\bin\Debug\netstandard2.0\LevelDb.Net.pdb
+F:\1VTChain\VTChain软件开发\VTChainNew\LevelDb.Net\obj\Debug\netstandard2.0\LevelDb.Net.dll
+F:\1VTChain\VTChain软件开发\VTChainNew\LevelDb.Net\obj\Debug\netstandard2.0\LevelDb.Net.pdb
+F:\1VTChain\VTChain软件开发\VTChainNew\LevelDb.Net\bin\Debug\netstandard2.0\LevelDB32.dll
+F:\1VTChain\VTChain软件开发\VTChainNew\LevelDb.Net\bin\Debug\netstandard2.0\LevelDB64.dll
+F:\1VTChain\VTChain软件开发\VTChainNew\LevelDb.Net\obj\Debug\netstandard2.0\LevelDb.Net.csprojResolveAssemblyReference.cache
+F:\1VTChain\VTChain软件开发\VTChainNew\LevelDb.Net\bin\Debug\netstandard2.0\VTChain.Base.dll
+F:\1VTChain\VTChain软件开发\VTChainNew\LevelDb.Net\bin\Debug\netstandard2.0\VTChain.Base.pdb
