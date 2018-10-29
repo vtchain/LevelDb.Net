@@ -14,6 +14,7 @@ namespace LevelDB
     public enum CompressionLevel
     {
         NoCompression = 0,
-        SnappyCompression = 1
+        SnappyCompression = 1,
+        SupperCompression=2
     }
 }
